@@ -1496,11 +1496,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hanna\\OneDrive\\Desktop\\BYU-Coding\\projects\\DotNetDependencies\\DotNetDependencies.csproj",
+      "projectUniqueName": "C:\\Users\\hanna\\OneDrive\\Desktop\\BYU-Coding\\projects\\CSE325-.Net-Software-Development---w1\\DotNetDependencies\\DotNetDependencies.csproj",
       "projectName": "DotNetDependencies",
-      "projectPath": "C:\\Users\\hanna\\OneDrive\\Desktop\\BYU-Coding\\projects\\DotNetDependencies\\DotNetDependencies.csproj",
+      "projectPath": "C:\\Users\\hanna\\OneDrive\\Desktop\\BYU-Coding\\projects\\CSE325-.Net-Software-Development---w1\\DotNetDependencies\\DotNetDependencies.csproj",
       "packagesPath": "C:\\Users\\hanna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hanna\\OneDrive\\Desktop\\BYU-Coding\\projects\\DotNetDependencies\\obj\\",
+      "outputPath": "C:\\Users\\hanna\\OneDrive\\Desktop\\BYU-Coding\\projects\\CSE325-.Net-Software-Development---w1\\DotNetDependencies\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hanna\\AppData\\Roaming\\NuGet\\NuGet.Config"

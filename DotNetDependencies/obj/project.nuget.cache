@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CuXWwyT5RUk=",
+  "dgSpecHash": "tkHplv95VVI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\hanna\\OneDrive\\Desktop\\BYU-Coding\\projects\\DotNetDependencies\\DotNetDependencies.csproj",
+  "projectFilePath": "C:\\Users\\hanna\\OneDrive\\Desktop\\BYU-Coding\\projects\\CSE325-.Net-Software-Development---w1\\DotNetDependencies\\DotNetDependencies.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hanna\\.nuget\\packages\\humanizer\\3.0.1\\humanizer.3.0.1.nupkg.sha512",
     "C:\\Users\\hanna\\.nuget\\packages\\humanizer.core\\3.0.1\\humanizer.core.3.0.1.nupkg.sha512",
@@ -57,10 +57,10 @@
     "C:\\Users\\hanna\\.nuget\\packages\\humanizer.core.zh-cn\\3.0.1\\humanizer.core.zh-cn.3.0.1.nupkg.sha512",
     "C:\\Users\\hanna\\.nuget\\packages\\humanizer.core.zh-hans\\3.0.1\\humanizer.core.zh-hans.3.0.1.nupkg.sha512",
     "C:\\Users\\hanna\\.nuget\\packages\\humanizer.core.zh-hant\\3.0.1\\humanizer.core.zh-hant.3.0.1.nupkg.sha512",
-    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512",
-    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.24\\microsoft.netcore.app.host.win-x64.8.0.24.nupkg.sha512",
     "C:\\Users\\hanna\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
-    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512"
+    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\hanna\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.24\\microsoft.netcore.app.host.win-x64.8.0.24.nupkg.sha512"
   ],
   "logs": []
 }
